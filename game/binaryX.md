@@ -30,9 +30,9 @@
 
 - 安装
 
-  ![image-20211116212154505](C:\Users\kunkka\AppData\Roaming\Typora\typora-user-images\image-20211116212154505.png)
+  ![image-20211116212154505](https://s3.bmp.ovh/imgs/2021/11/4f767f755a3927e5.png)
 
-![image-20211116212230683](C:\Users\kunkka\AppData\Roaming\Typora\typora-user-images\image-20211116212230683.png)
+![image-20211116212230683](https://s3.bmp.ovh/imgs/2021/11/ec3d63ed4802149e.png)
 
 ##### TokenPocket
 
@@ -50,13 +50,13 @@
 
   
 
-![image-20211116212502139](C:\Users\kunkka\AppData\Roaming\Typora\typora-user-images\image-20211116212502139.png)
+![image-20211116212502139](https://s3.bmp.ovh/imgs/2021/11/fa23088aa38393d9.png)
 
-- 第二步，导入币安智能链。因为小狐狸是eth钱包，所有需要自定义BSC链。那么如何导入呢？这里请打开https://chainlist.org/ 搜索bsc，这里有56和97 ，56属于主链，97是测试链，这里我们点击Connect Wallet 连接ChainID为56的![image-20211116212742871](C:\Users\kunkka\AppData\Roaming\Typora\typora-user-images\image-20211116212742871.png)
+- 第二步，导入币安智能链。因为小狐狸是eth钱包，所有需要自定义BSC链。那么如何导入呢？这里请打开https://chainlist.org/ 搜索bsc，这里有56和97 ，56属于主链，97是测试链，这里我们点击Connect Wallet 连接ChainID为56的![image-20211116212742871](https://s3.bmp.ovh/imgs/2021/11/8190765a898e5a28.png)
 
 - 第三步，现在我们的小狐狸钱包里面应该会出现这样的界面，请注意上面的主链是否为币安智能链，如果不是，点击切换。
 
-![image-20211116212937732](C:\Users\kunkka\AppData\Roaming\Typora\typora-user-images\image-20211116212937732.png)
+![image-20211116212937732](https://s3.bmp.ovh/imgs/2021/11/d62819a9a8f47004.png)
 
 - 第四步，转入一些bnb和bnx，可以通过pancakeswap进行兑换，或者通过币安交易所买进bnb或者bnx转入。这里提示一下，因为是币安智能链，所以所有操作手续费都需要使用bnb，建议留一些bnb在账户里当做手续费使用，不需要太多，当然也不能太少哦~
 
